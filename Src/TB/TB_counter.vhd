@@ -58,6 +58,6 @@ begin
         wait for 20 ns;
         reset <= '0';
         
-    wait;
+        wait;
     end process;
 end Behavioral;
