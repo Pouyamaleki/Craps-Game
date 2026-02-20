@@ -123,7 +123,7 @@ begin
     
                 when others =>
                      next_state <= WAITING;
-                     store-p <= '0';
+                     store_p <= '0';
                      lose <= '0';
                      win <= '0';
 
