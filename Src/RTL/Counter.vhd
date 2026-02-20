@@ -3,7 +3,7 @@ library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.NUMERIC_STD.ALL;
 
--- Ports int order: Clock , reset to restart the game , enable to start the game , output
+-- Ports in order: Clock , reset to restart the game , enable to start the game , output
 entity counter is
     port (
         clk     : in  STD_LOGIC;
