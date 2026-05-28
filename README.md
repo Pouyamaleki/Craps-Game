@@ -1,5 +1,6 @@
 # 🎲 Dice Game - VHDL Implementation
 
+<a id="overview"></a>
 ## Overview
 A hardware implementation of the **Craps dice game** using VHDL with a structural architecture consisting of an FSM controller and independent datapath components.
 
@@ -13,6 +14,7 @@ A hardware implementation of the **Craps dice game** using VHDL with a structura
 - [Author](#author)
 
 
+<a id="project-structure"></a>
 ## 📁 Project Structure
 
 ```
@@ -41,6 +43,7 @@ Craps Game/
 └── 📂 WaveForms  
 ```
 
+<a id="game-rules"></a>
 ## 🎯 Game Rules
 
 This implementation follows the standard **Craps** dice game rules based on the VHDL code.
@@ -388,6 +391,7 @@ The controller has **5 states**:
 
 <br>
 
+<a id="entity-interface"></a>
 ## 🔌 Entity Interface
 
 **CrapsGame (Top Level)**
@@ -449,6 +453,7 @@ The controller has **5 states**:
 
 <br>
 
+<a id="architecture"></a>
 ## 🏗️ Architecture
 
 ```
@@ -479,6 +484,7 @@ DiceGame (Top Level)
     └── Outputs: roll_en, store_p, win, lose
 ```
 
+<a id="simulation"></a>
 ## 🚀 Simulation
 
 **Prerequisites**  
@@ -560,5 +566,6 @@ This will:
 
  #### The remarkable thing is that the CodeRunner will automatically show you every WaveForm just press **Enter** after each time you close the WaveForm tab to see the next WaveForm
 
+<a id="author"></a>
 ## 👤 Author
 VHDL Craps Game Implemented by [Pouyamaleki](github.com/Pouyamaleki)
