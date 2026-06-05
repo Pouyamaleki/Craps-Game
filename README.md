@@ -569,3 +569,7 @@ This will:
 <a id="author"></a>
 ## 👤 Author
 VHDL Craps Game Implemented by [Pouyamaleki](github.com/Pouyamaleki)
+
+## 📄 License
+
+MIT License - feel free to use, learn, and improve!
