@@ -42,9 +42,9 @@ Craps Game/
 │      └── 🧪 TB_TestLogic.vhd
 ├── 📂 WaveForms
 │  
-├── 📄README.md
+├── 📝README.md
 │  
-└── 📄LICENSE
+└── 📝LICENSE
 
 ```
 
@@ -575,6 +575,6 @@ This will:
 ## 👤 Author
 VHDL Craps Game Implemented by [Pouyamaleki](github.com/Pouyamaleki)
 
-## 📄 License
+## 📝 License
 
 MIT License - feel free to use, learn, and improve!
