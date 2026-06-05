@@ -39,8 +39,13 @@ Craps Game/
 │      ├── 🧪 TB_FSM.vhd  
 │      ├── 🧪 TB_PointReg.vhd  
 │      ├── 🧪 TB_SevenSEg.vhd  
-│      └── 🧪 TB_TestLogic.vhd  
-└── 📂 WaveForms  
+│      └── 🧪 TB_TestLogic.vhd
+├── 📂 WaveForms
+│  
+├── 📄README.md
+│  
+└── 📄LICENSE
+
 ```
 
 <a id="game-rules"></a>
